@@ -7,8 +7,8 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "jest",
-    "build": "grunt --gruntfile ./dev/Gruntfile.js",
+    "build": "./node_modules/grunt-cli/bin/grunt build",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
