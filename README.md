@@ -1,6 +1,6 @@
 turtle
 ======
->'take ur turtle like everywhere: a simple social media platform focused on privacy'
+>'Turtle: a simple online messaging platform'
 
 ---
 [![Build Status](https://travis-ci.org/dwolfm/turtle.svg)](https://travis-ci.org/dwolfm/turtle)
