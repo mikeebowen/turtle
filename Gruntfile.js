@@ -136,4 +136,5 @@ module.exports = function(grunt) {
   grunt.registerTask('default', ['lint', 'test']);
   grunt.registerTask('client', ['build']);
   grunt.registerTask('build', ['webpack:client', 'copy:html']);
+  grunt.registerTask('default', ['build']);
 };

@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "jest",
-    "postinstall": "grunt build"
+    "build": "grunt --gruntfile ./dev/Gruntfile.js",
   },
   "repository": {
     "type": "git",
